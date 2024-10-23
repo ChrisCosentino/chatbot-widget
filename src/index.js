@@ -21,7 +21,7 @@ import { ChatWidget } from './chat-widget';
 
 const wcChat = r2wc(ChatWidget, {});
 
-customElements.define('r2w-chat', wcChat);
+customElements.define('r2wc-chat', wcChat);
 // import Checklist from './components/checklist/Checklist';
 
 // const wcChecklist = r2wc(Checklist, { props: { items: "json" } });
