@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/r2wc-chat/static/js/main.44a3b11a.js",
+    "index.html": "/r2wc-chat/index.html",
+    "main.44a3b11a.js.map": "/r2wc-chat/static/js/main.44a3b11a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.44a3b11a.js"
+  ]
+}
